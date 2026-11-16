@@ -30,7 +30,7 @@ Los documentos incluidos en este repositorio están organizados siguiendo esta s
 | **05** | Especialización Internacional | Neuropiriodismo de Viaje | Organización Mundial de Periodismo Turístico (OMPT) |
 | **06** | Curso | Ortografía y Redacción | INCE Bolívar |
 | **07** | Curso | Comunicación Oral y Escrita | INCE Bolívar |
-| **08** | Taller | Expresión Oral Efectiva | [Agregar institución si aplica] |
+| **08** | Taller | Expresión Oral Efectiva | [INCE BOLIVAR] |
 
 ## Estructura del Repositorio
 
