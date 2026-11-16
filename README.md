@@ -27,7 +27,7 @@ Los documentos incluidos en este repositorio están organizados siguiendo esta s
 | **02** | Taller Gerencial | Herramientas Integradoras para el Manejo de Conflictos | INCE Bolívar |
 | **03** | Taller | Liderazgo en sus Cuatro Dimensiones | Safe Coaching Group |
 | **04** | Diplomado | Gerencia: *El Gerente como Miembro de la Sociedad* | Universidad Central de Venezuela (UCV) |
-| **05** | Especialización Internacional | Neuropiriodismo de Viaje | Organización Mundial de Periodismo Turístico (OMPT) |
+| **05** | Especialización Internacional | Neuroperiodismo de Viaje | Organización Mundial de Periodismo Turístico (OMPT) |
 | **06** | Curso | Ortografía y Redacción | INCE Bolívar |
 | **07** | Curso | Comunicación Oral y Escrita | INCE Bolívar |
 | **08** | Taller | Expresión Oral Efectiva | [INCE BOLIVAR] |
